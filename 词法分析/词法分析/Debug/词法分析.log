@@ -1,0 +1,4 @@
+﻿  complier.cpp
+F:\C语言\词法分析\词法分析\complier.cpp(55,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C语言\词法分析\词法分析\complier.cpp(117): warning C4715: “split”: 不是所有的控件路径都返回值
+  词法分析.vcxproj -> F:\C语言\词法分析\Debug\词法分析.exe
